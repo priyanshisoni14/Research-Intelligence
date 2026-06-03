@@ -186,7 +186,10 @@ A second LCEL chain that reviews the draft report and returns a score out of 10,
 
 ## Screenshots
 
-> Run the app and paste a screenshot here.
+![Home Screen](screenshots/ss1.png)
+![Pipeline Running](screenshots/ss2.png)
+![Final Report](screenshots/ss3.png)
+![Critic Report](screenshots/ss4.png)
 
 ---
 
